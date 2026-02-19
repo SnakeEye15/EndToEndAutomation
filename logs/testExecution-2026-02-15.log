@@ -1,0 +1,198 @@
+2026-02-15 00:16:40 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:41 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:43 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:43 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:44 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:44 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:49 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:16:50 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:16:53 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:16:53 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:16:54 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:16:54 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:16:55 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:16:56 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:16:58 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:16:59 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:17:00 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Capturing acutal Stations shown on site
+2026-02-15 00:17:00 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Comparing expected stations with actual stations
+2026-02-15 00:17:03 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selected station: Delhi Azadpur
+2026-02-15 00:17:05 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selecting the date in calender
+2026-02-15 00:18:16 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:18:21 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:18:22 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:18:24 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:18:24 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:18:25 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:18:26 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:18:27 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:18:29 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:18:31 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:18:32 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:18:33 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Capturing acutal Stations shown on site
+2026-02-15 00:18:33 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Comparing expected stations with actual stations
+2026-02-15 00:18:35 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:18:35 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:18:35 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selected station: Delhi Azadpur
+2026-02-15 00:18:37 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:18:37 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selecting the date in calender
+2026-02-15 00:21:11 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:16 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:16 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:24 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:24 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:21:25 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:27 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:27 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:21:29 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:21:31 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:21:35 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:21:35 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:21:37 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:21:39 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:22:22 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:22:23 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:22:25 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Capturing acutal Stations shown on site
+2026-02-15 00:22:26 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Comparing expected stations with actual stations
+2026-02-15 00:22:28 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selected station: Delhi Azadpur
+2026-02-15 00:22:30 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selecting the date in calender
+2026-02-15 00:23:56 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:24:05 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:07 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:24:07 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:08 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:10 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:12 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:15 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:15 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:24:16 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:24:17 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:24:19 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:24:21 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:24:23 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:24:25 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:24:25 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:36:53 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:37:01 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:37:22 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:37:25 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:38:12 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:38:16 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:38:19 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:38:24 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:38:28 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:38:30 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:39:13 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:39:17 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:39:23 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:39:24 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:39:29 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:39:34 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:41:54 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:00 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 00:42:09 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:42:10 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 00:42:10 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:12 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:14 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:15 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:15 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:21 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:42:24 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 00:42:25 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 00:42:26 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:42:28 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Capturing acutal Stations shown on site
+2026-02-15 00:42:28 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:42:29 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Comparing expected stations with actual stations
+2026-02-15 00:42:29 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 00:42:31 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selected station: Delhi Azadpur
+2026-02-15 00:42:33 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selecting the date in calender
+2026-02-15 00:42:37 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 02:14:22 [TestNG-test-All test-1] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyStationDropDownData
+2026-02-15 02:14:22 [TestNG-PoolService-6] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:22 [TestNG-PoolService-5] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:22 [TestNG-PoolService-1] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:22 [TestNG-PoolService-2] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:22 [TestNG-PoolService-3] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:24 [TestNG-PoolService-7] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:24 [TestNG-PoolService-4] INFO  com.automation.framework.listeners.ExtentListeners - Test StartedverifyLogin
+2026-02-15 02:14:31 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 02:14:49 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:14:51 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:14:51 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:14:52 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:14:56 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:14:57 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:15:01 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 02:15:01 [TestNG-PoolService-6] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:02 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:15:02 [TestNG-PoolService-3] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:02 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:15:03 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:15:03 [TestNG-PoolService-2] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:05 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 02:15:05 [TestNG-PoolService-1] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:07 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:15:07 [TestNG-PoolService-5] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:08 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:15:08 [TestNG-PoolService-7] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:12 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:15:12 [TestNG-PoolService-4] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:15:27 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 02:15:30 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Capturing acutal Stations shown on site
+2026-02-15 02:15:31 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Comparing expected stations with actual stations
+2026-02-15 02:15:34 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selected station: Delhi Azadpur
+2026-02-15 02:15:36 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selecting the date in calender
+2026-02-15 02:15:36 [TestNG-test-All test-1] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyStationDropDownData
+2026-02-15 02:18:39 [TestNG-test-All test-1] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyStationDropDownData
+2026-02-15 02:18:39 [TestNG-test-All test-1] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyStationDropDownData
+2026-02-15 02:18:40 [TestNG-PoolService-1] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-1] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-4] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-4] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-5] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-5] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-6] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-6] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-3] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:40 [TestNG-PoolService-3] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:18:41 [TestNG-PoolService-7] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:41 [TestNG-PoolService-7] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:18:41 [TestNG-PoolService-2] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:18:41 [TestNG-PoolService-2] INFO  com.automation.framework.listeners.ExtentListeners - Test case Skipped: verifyLogin
+2026-02-15 02:27:26 [TestNG-PoolService-2] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:26 [TestNG-PoolService-1] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:27 [TestNG-PoolService-4] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:27 [TestNG-test-All test-1] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyStationDropDownData
+2026-02-15 02:27:27 [TestNG-PoolService-7] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:28 [TestNG-PoolService-3] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:31 [TestNG-PoolService-5] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:32 [TestNG-PoolService-6] INFO  com.automation.framework.listeners.ExtentListeners - Test Started: verifyLogin
+2026-02-15 02:27:53 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:27:54 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:27:55 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:27:56 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:27:59 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:28:02 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:28:02 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Performing login with username and password
+2026-02-15 02:28:05 [TestNG-PoolService-7] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:28:05 [TestNG-PoolService-7] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:06 [TestNG-PoolService-3] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:28:06 [TestNG-PoolService-3] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:06 [TestNG-PoolService-4] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:28:06 [TestNG-PoolService-4] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:07 [TestNG-PoolService-1] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 02:28:07 [TestNG-PoolService-1] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:09 [TestNG-PoolService-2] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:28:09 [TestNG-PoolService-2] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:11 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering URL for train website
+2026-02-15 02:28:12 [TestNG-PoolService-5] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for InValid scenarios
+2026-02-15 02:28:12 [TestNG-PoolService-5] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:13 [TestNG-PoolService-6] INFO  com.automation.framework.pages.LoginPage - Comparing the results of login for Valid scenarios
+2026-02-15 02:28:13 [TestNG-PoolService-6] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyLogin
+2026-02-15 02:28:15 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Entering 'DEL' text in filed
+2026-02-15 02:28:17 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Capturing acutal Stations shown on site
+2026-02-15 02:28:17 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Comparing expected stations with actual stations
+2026-02-15 02:28:19 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selected station: Delhi Azadpur
+2026-02-15 02:28:21 [TestNG-test-All test-1] INFO  com.automation.framework.pages.HomePage - Selecting the date in calender
+2026-02-15 02:28:21 [TestNG-test-All test-1] INFO  com.automation.framework.listeners.ExtentListeners - Test case passed: verifyStationDropDownData

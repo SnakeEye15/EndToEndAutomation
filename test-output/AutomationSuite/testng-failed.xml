@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Failed suite [AutomationSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.automation.framework.listeners.ExtentListeners"/>
+    <listener class-name="com.automation.framework.listeners.RetryListener"/>
+  </listeners>
+  <test thread-count="5" parallel="methods" name="All test(failed)">
+    <classes>
+      <class name="com.automation.tests.StationSelectionTest">
+        <methods>
+          <include name="verifyStationDropDownData"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automation.tests.StationSelectionTest -->
+      <class name="com.automation.tests.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- com.automation.tests.LoginTest -->
+    </classes>
+  </test> <!-- All test(failed) -->
+</suite> <!-- Failed suite [AutomationSuite] -->

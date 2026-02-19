@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-19T00:08:26 IST" name="AutomationSuite" finished-at="2026-02-19T00:09:21 IST" duration-ms="54464">
+    <groups>
+      <group name="regression">
+        <method signature="LoginTest.verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" name="verifyLogin" class="com.automation.tests.LoginTest"/>
+        <method signature="StationSelectionTest.verifyStationDropDownData()[pri:0, instance:com.automation.tests.StationSelectionTest@548e76f1]" name="verifyStationDropDownData" class="com.automation.tests.StationSelectionTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="LoginTest.verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" name="verifyLogin" class="com.automation.tests.LoginTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-02-19T00:08:26 IST" name="All test" finished-at="2026-02-19T00:09:21 IST" duration-ms="54464">
+      <class name="com.automation.tests.StationSelectionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.StationSelectionTest@548e76f1]" started-at="2026-02-19T00:08:26 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="11342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyStationDropDownData()[pri:0, instance:com.automation.tests.StationSelectionTest@548e76f1]" started-at="2026-02-19T00:08:38 IST" name="verifyStationDropDownData" finished-at="2026-02-19T00:09:14 IST" duration-ms="35852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStationDropDownData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.StationSelectionTest@548e76f1]" started-at="2026-02-19T00:09:14 IST" name="tearDown" finished-at="2026-02-19T00:09:15 IST" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.tests.StationSelectionTest -->
+      <class name="com.automation.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="9271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:37 IST" duration-ms="8859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="9292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="9580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="9757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="9318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:28 IST" name="setup" finished-at="2026-02-19T00:08:38 IST" duration-ms="9035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:37 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:10 IST" duration-ms="32402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[#admin@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:38 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:13 IST" duration-ms="35872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:38 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:13 IST" duration-ms="35410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:38 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:09 IST" duration-ms="31650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dheeraj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:38 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:20 IST" duration-ms="42652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfasdfe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:38 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:08 IST" duration-ms="29637" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[herewe$5#2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:08:38 IST" name="verifyLogin" data-provider="loginData" finished-at="2026-02-19T00:09:13 IST" duration-ms="34651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fsdfasd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:08 IST" name="tearDown" finished-at="2026-02-19T00:09:14 IST" duration-ms="6304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:09 IST" name="tearDown" finished-at="2026-02-19T00:09:15 IST" duration-ms="5525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:10 IST" name="tearDown" finished-at="2026-02-19T00:09:14 IST" duration-ms="4434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:13 IST" name="tearDown" finished-at="2026-02-19T00:09:15 IST" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:13 IST" name="tearDown" finished-at="2026-02-19T00:09:15 IST" duration-ms="1886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:13 IST" name="tearDown" finished-at="2026-02-19T00:09:15 IST" duration-ms="1905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.tests.LoginTest@579d011c]" started-at="2026-02-19T00:09:20 IST" name="tearDown" finished-at="2026-02-19T00:09:21 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.tests.LoginTest -->
+    </test> <!-- All test -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
