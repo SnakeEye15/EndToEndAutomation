@@ -1,13 +1,28 @@
-How to Run Project
+🚀 Getting Started
+Prerequisites
+Java JDK 17+
 
-1) Install Java 17+
-2) Install Maven
-3) Extract project
-4) Open command prompt inside project folder
-5) Run: mvn clean test
+Apache Maven
 
-Reports:
-reports/AutomationReport.html
+IDE (IntelliJ IDEA or Eclipse)
 
-Browser can be changed in:
-src/test/resources/config.properties
+Local Execution
+Clone the repository:
+
+Navigate to directory:
+
+Run tests via Maven:
+
+⚙️ Configuration
+Customize your test run via src/test/resources/config.properties:
+
+Change browser (chrome/firefox/edge)
+
+Update url for different environments (QA/UAT/Prod)
+
+📊 Viewing Reports
+After execution, open the following file in any browser to see the results:
+📂 reports/AutomationReport.html
+
+👤 Author
+Dheeraj Saini
