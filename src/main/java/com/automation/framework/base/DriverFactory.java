@@ -30,7 +30,7 @@ public class DriverFactory {
 		case "chrome":
 			ChromeOptions options=new ChromeOptions();
 			if(headless) {
-			options.addArguments("--headless=new");
+			options.addArguments("--headless");
 			//options.addArguments("--window-size=1920,1080");
 			}
 			WebDriverManager.chromedriver().setup();
@@ -46,7 +46,7 @@ public class DriverFactory {
 		    }
 			EdgeOptions edgeOption= new EdgeOptions();
 			if(headless) {
-				edgeOption.addArguments("--headless=true");
+				edgeOption.addArguments("--headless");
 			}
 		    driver.set(new EdgeDriver(edgeOption));
 		    break;
@@ -54,7 +54,7 @@ public class DriverFactory {
 		case "firefox":
 			FirefoxOptions fireOption= new FirefoxOptions();
 			if(headless) {
-				fireOption.addArguments("--headless=new");
+				fireOption.addArguments("--headless");
 			}
 			WebDriverManager.firefoxdriver().setup();
 			driver.set(new FirefoxDriver());

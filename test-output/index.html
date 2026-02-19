@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-AutomationSuite" class="navigator-link">
-              <span class="suite-name border-passed">AutomationSuite</span>
+              <span class="suite-name border-skipped">AutomationSuite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -60,7 +60,7 @@
                 </li>
                 <li>
                   <a href="#" panel-name="group-AutomationSuite" class="navigator-link ">
-                    <span>2 groups</span>
+                    <span>0 groups</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">8 methods,   8 passed</span>
+                    <span class="method-stats">9 methods,  1 skipped,  8 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Retried methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-AutomationSuite" class="hide-methods skipped suite-AutomationSuite"> (hide)</a> <!-- hide-methods skipped suite-AutomationSuite -->
+                      <a href="#" panel-name="suite-AutomationSuite" class="show-methods skipped suite-AutomationSuite"> (show)</a> <!-- show-methods skipped suite-AutomationSuite -->
+                    </span>
+                    <div class="method-list-content skipped suite-AutomationSuite">
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(demo, herewe$5#2, invalid)">verifyLogin(demo, herewe$5#2, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-AutomationSuite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,12 +117,22 @@
                     <div class="method-list-content passed suite-AutomationSuite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(demo, herewe$5#2, invalid)">verifyLogin(demo, herewe$5#2, invalid)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(Admin, #admin@123, invalid)">verifyLogin(Admin, #admin@123, invalid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(Admin, #admin@123, invalid)">verifyLogin(Admin, #admin@123, invalid)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(dheeraj, saini, invalid)">verifyLogin(dheeraj, saini, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(demo, fsdfasd, invalid)">verifyLogin(demo, fsdfasd, invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(demo, herewe$5#2, invalid)">verifyLogin(demo, herewe$5#2, invalid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -128,16 +152,6 @@
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(dheeraj, saini, invalid)">verifyLogin(dheeraj, saini, invalid)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.LoginTest" class="method navigator-link" hash-for-method="verifyLogin(demo, fsdfasd, invalid)">verifyLogin(demo, fsdfasd, invalid)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-AutomationSuite" title="com.automation.tests.StationSelectionTest" class="method navigator-link" hash-for-method="verifyStationDropDownData">verifyStationDropDownData</a> <!-- method navigator-link -->
                       </span>
                       <br/>
@@ -153,6 +167,40 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-AutomationSuite" class="panel AutomationSuite">
+          <div class="suite-AutomationSuite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.automation.tests.LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyLogin(demo, herewe$5#2, invalid)">
+                  </a> <!-- verifyLogin(demo, herewe$5#2, invalid) -->
+                  <span class="method-name">verifyLogin</span>
+                  <span class="parameters">(demo,herewe$5#2,invalid)</span>
+                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.name: username, but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;*[name=&apos;username&apos;]&quot;}.
+(tried for 10 seconds with 500 milliseconds interval)
+Build info: version: &apos;4.40.0&apos;, revision: &apos;b3333f1&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.17&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\Dheeraj\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60419}, goog:processID: 15524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60419/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29ea42c46064d6797b2a475c8fb221ef
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.automation.framework.utils.WaitUtil.waitForVisibility(WaitUtil.java:23)
+	at com.automation.framework.pages.LoginPage.enterUsername(LoginPage.java:21)
+	at com.automation.framework.pages.LoginPage.login(LoginPage.java:47)
+	at com.automation.tests.LoginTest.verifyLogin(LoginTest.java:25)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+... Removed 9 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-AutomationSuite-class-skipped -->
           <div class="suite-AutomationSuite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -176,18 +224,34 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="verifyLogin(demo, herewe$5#2, invalid)">
-                  </a> <!-- verifyLogin(demo, herewe$5#2, invalid) -->
-                  <span class="method-name">verifyLogin</span>
-                  <span class="parameters">(demo,herewe$5#2,invalid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="verifyLogin(Admin, #admin@123, invalid)">
                   </a> <!-- verifyLogin(Admin, #admin@123, invalid) -->
                   <span class="method-name">verifyLogin</span>
                   <span class="parameters">(Admin,#admin@123,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyLogin(dheeraj, saini, invalid)">
+                  </a> <!-- verifyLogin(dheeraj, saini, invalid) -->
+                  <span class="method-name">verifyLogin</span>
+                  <span class="parameters">(dheeraj,saini,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyLogin(demo, fsdfasd, invalid)">
+                  </a> <!-- verifyLogin(demo, fsdfasd, invalid) -->
+                  <span class="method-name">verifyLogin</span>
+                  <span class="parameters">(demo,fsdfasd,invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyLogin(demo, herewe$5#2, invalid)">
+                  </a> <!-- verifyLogin(demo, herewe$5#2, invalid) -->
+                  <span class="method-name">verifyLogin</span>
+                  <span class="parameters">(demo,herewe$5#2,invalid)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -212,22 +276,6 @@
                   </a> <!-- verifyLogin(Admin, admin123, valid) -->
                   <span class="method-name">verifyLogin</span>
                   <span class="parameters">(Admin,admin123,valid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="verifyLogin(dheeraj, saini, invalid)">
-                  </a> <!-- verifyLogin(dheeraj, saini, invalid) -->
-                  <span class="method-name">verifyLogin</span>
-                  <span class="parameters">(dheeraj,saini,invalid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="verifyLogin(demo, fsdfasd, invalid)">
-                  </a> <!-- verifyLogin(demo, fsdfasd, invalid) -->
-                  <span class="method-name">verifyLogin</span>
-                  <span class="parameters">(demo,fsdfasd,invalid)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -273,26 +321,6 @@
             <span class="header-content">Groups for AutomationSuite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="test-group">
-              <span class="test-group-name">regression</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">verifyLogin</span>
-                <br/>
-              </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">verifyStationDropDownData</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
-            <div class="test-group">
-              <span class="test-group-name">smoke</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">verifyLogin</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="times-AutomationSuite" class="panel">
@@ -309,39 +337,43 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(8);
+data.addRows(9);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verifyLogin')
 data.setCell(0, 2, 'com.automation.tests.LoginTest')
-data.setCell(0, 3, 42652);
+data.setCell(0, 3, 51996);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'verifyLogin')
 data.setCell(1, 2, 'com.automation.tests.LoginTest')
-data.setCell(1, 3, 35872);
+data.setCell(1, 3, 50037);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'verifyStationDropDownData')
-data.setCell(2, 2, 'com.automation.tests.StationSelectionTest')
-data.setCell(2, 3, 35852);
+data.setCell(2, 1, 'verifyLogin')
+data.setCell(2, 2, 'com.automation.tests.LoginTest')
+data.setCell(2, 3, 46551);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'verifyLogin')
 data.setCell(3, 2, 'com.automation.tests.LoginTest')
-data.setCell(3, 3, 35410);
+data.setCell(3, 3, 37259);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'verifyLogin')
 data.setCell(4, 2, 'com.automation.tests.LoginTest')
-data.setCell(4, 3, 34651);
+data.setCell(4, 3, 35679);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'verifyLogin')
 data.setCell(5, 2, 'com.automation.tests.LoginTest')
-data.setCell(5, 3, 32402);
+data.setCell(5, 3, 31069);
 data.setCell(6, 0, 6)
 data.setCell(6, 1, 'verifyLogin')
 data.setCell(6, 2, 'com.automation.tests.LoginTest')
-data.setCell(6, 3, 31650);
+data.setCell(6, 3, 23577);
 data.setCell(7, 0, 7)
 data.setCell(7, 1, 'verifyLogin')
 data.setCell(7, 2, 'com.automation.tests.LoginTest')
-data.setCell(7, 3, 29637);
+data.setCell(7, 3, 11457);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'verifyStationDropDownData')
+data.setCell(8, 2, 'com.automation.tests.StationSelectionTest')
+data.setCell(8, 3, 9941);
 window.suiteTableData['AutomationSuite']= { tableData: data, tableDiv: 'times-div-AutomationSuite'}
 return data;
 }
@@ -382,107 +414,119 @@ return data;
               <div class="chronological-class-name">com.automation.tests.LoginTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2061 ms</span>
+                <span class="method-start">652 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2062 ms</span>
+                <span class="method-start">652 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2064 ms</span>
+                <span class="method-start">652 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2064 ms</span>
+                <span class="method-start">652 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2066 ms</span>
+                <span class="method-start">653 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2066 ms</span>
+                <span class="method-start">653 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">2066 ms</span>
+                <span class="method-start">653 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">verifyLogin(Admin, #admin@123, invalid)</span>
-                <span class="method-start">10923 ms</span>
+                <span class="method-start">2876 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verifyLogin(Admin, admin123, valid)</span>
-                <span class="method-start">11102 ms</span>
+                <span class="method-start">2895 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verifyLogin(Admin, admin123, valid)</span>
-                <span class="method-start">11333 ms</span>
+                <span class="method-start">2904 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.automation.tests.StationSelectionTest</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">verifyStationDropDownData</span>
-                <span class="method-start">11343 ms</span>
+                <span class="method-start">2919 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.automation.tests.LoginTest</div> <!-- chronological-class-name -->
               <div class="test-method">
-                <span class="method-name">verifyLogin(dheeraj, saini, invalid)</span>
-                <span class="method-start">11356 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
                 <span class="method-name">verifyLogin(demo, dfasdfe, invalid)</span>
-                <span class="method-start">11384 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">verifyLogin(demo, herewe$5#2, invalid)</span>
-                <span class="method-start">11644 ms</span>
+                <span class="method-start">2919 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verifyLogin(demo, fsdfasd, invalid)</span>
-                <span class="method-start">11824 ms</span>
+                <span class="method-start">2924 ms</span>
               </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">41318 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">43020 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">43339 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">46481 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">46749 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">46982 ms</span>
-              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyLogin(demo, herewe$5#2, invalid)</span>
+                <span class="method-start">4063 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyLogin(dheeraj, saini, invalid)</span>
+                <span class="method-start">4302 ms</span>
+              </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.automation.tests.StationSelectionTest</div> <!-- chronological-class-name -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">47200 ms</span>
+                <span class="method-start">12868 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.automation.tests.LoginTest</div> <!-- chronological-class-name -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">54040 ms</span>
+                <span class="method-start">15524 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">15803 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyLogin(demo, herewe$5#2, invalid)</span>
+                <span class="method-start">16744 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">27882 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">33975 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">38606 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">49473 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">52915 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">54005 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">54907 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
